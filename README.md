@@ -28,7 +28,7 @@ In most cases, the archives include tweets dating from some months before and af
 
 * twitterIDs_AHA2012.csv (4900 tweets)
 * twitterIDs_AHA2013.csv (5401 tweets)
-* twitterIDs_AHA2014.csv ( tweets)
+* twitterIDs_AHA2014.csv (9325 tweets)
 * twitterIDs_AHA2015.csv (23910 tweets)
 * twitterIDs_AHA2016.csv (16606 tweets)
 
@@ -56,7 +56,7 @@ and
 
 I take the wording to mean that:
 
-* you may use the IDs data to create new datasets containing further elements of tweets' content/metadata, in accordance with any terms and conditions imposed by the tools you use to extract the data
+* you may use the IDs data to create new datasets containing further elements of tweets' content/metadata, in accordance with any terms and conditions imposed by the tools you use to extract the data, for your own use
 * you may publish quantitative analyses and datavizes of the new datasets or small amounts of the additional tweet content/metadata to illustrate qualitative analyses and narratives, as well as descriptions of the methods and tools you used to collect the fuller data from the IDs 
 * you may redistribute or archive copies of the bare tweet IDs data in any way you wish
 * but you **may not** share or re-publish the derived datasets containing additional tweet content/metadata
