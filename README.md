@@ -2,15 +2,16 @@
 
 Between 2011 and 2016 I archived a range of Twitter hashtags of interest to historians. I have now discontinued archiving activity because I don't have time to maintain it properly, and Twitter's search facilities have substantially improved since the early days. 
 
-This repository contains the tweet ID data for selected archives, in accordance with [Twitter's rules for sharing their data](https://dev.twitter.com/overview/terms/agreement-and-policy#f-be-a-good-partner-to-twitter) (see notes on licensing below) and the ethical guidelines outlined by [DocumentsNow](http://www.docnow.io/). 
+This repository contains the tweet ID data for selected archives, in accordance with [Twitter's rules for sharing their data](https://dev.twitter.com/overview/terms/agreement-and-policy#f-be-a-good-partner-to-twitter) (see notes on licensing below) and the ethical guidelines outlined by [DocNow](http://www.docnow.io/). 
 
-To reconstruct the full data from the bare IDs you will need to use the [Twitter API](https://dev.twitter.com/overview/api) or a specialised tool such as [DocumentsNow's](http://www.docnow.io/)  [Hydrator](https://github.com/DocNow/hydrator) or [twarc](https://github.com/docnow/twarc).
+To reconstruct the full data from the bare IDs you will need to use the [Twitter API](https://dev.twitter.com/overview/api) or a specialised tool such as [DocNow's](http://www.docnow.io/)  [Hydrator](https://github.com/DocNow/hydrator) or [twarc](https://github.com/docnow/twarc).
 
 ## Datasets
 
 Unless otherwise stated, each dataset consists of two data fields:
-   tweet_id: the unique ID of the tweet itself (id_str in the Twitter API)
-   user_id: the user ID (user_id_str)
+
+*   tweet_id: the unique ID of the tweet itself (id_str in the Twitter API)
+*   user_id: the user ID (user_id_str)
    
 The archived data was in all cases collected via the Twitter Search API (normally at 30 minute intervals, and more frequently if necessary). There may be small gaps but the method proved generally reliable over several years.
 
