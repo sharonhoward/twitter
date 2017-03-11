@@ -15,7 +15,7 @@ Unless otherwise stated, each dataset consists of two data fields:
    
 The archived data was in all cases collected via the Twitter Search API (normally at 30 minute intervals, and more frequently if necessary). There may be small gaps but the method proved generally reliable over several years.
 
-### #Twitterstorians (October 2011 - October 2016)
+### #twitterstorians (October 2011 - October 2016)
 
 The #twitterstorians hashtag was the brainchild of Katrina Gulliver. It has been used for a wide range of purposes by historians including publicity, asking questions, and general networking.
 
@@ -33,15 +33,29 @@ In most cases, the archives include tweets dating from some months before and af
 * twitterIDs_AHA2015.csv (23910 tweets)
 * twitterIDs_AHA2016.csv (16606 tweets)
 
+### #earlymodern (July 2012 - October 2016)
+
+* twitterIDs_earlymodern.csv (64280 tweets)
+
+### #ozhst (July 2012 - October 2016)
+
+A hashtag for Australian history (may also include #ozhist)
+
+* twitterIDs_ozhst.csv (16845  tweets)
+
+### Australian History Association conferences 2012-2016
+
+* twitterIDs_ozha2012.csv (1112 tweets)
+* twitterIDs_ozha2013.csv (817 tweets)
+* twitterIDs_ozha2014.csv (679 tweets)
+* twitterIDs_ozha2015.csv (2884 tweets)
+* twitterIDs_ozha2016.csv (374 tweets)
+
 ### Future Additions
 
 To include:
-
-* #earlymodern
 * #dhist and #digitalhistory
-* #ozhist and Australian Historical Association conferences
 * #histsci and #histstm
-* a number of smaller conference and event hashtags
 
 ## Licensing
 
